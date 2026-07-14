@@ -1,0 +1,11 @@
+{
+  "reviewDecision": "APPROVED",
+  "latestReviews": [
+    {
+      "author": {"login": "reviewer1"},
+      "state": "APPROVED",
+      "body": "LGTM",
+      "submittedAt": "2026-07-14T10:00:00Z"
+    }
+  ]
+}

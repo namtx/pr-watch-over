@@ -1,0 +1,11 @@
+{
+  "reviewDecision": null,
+  "latestReviews": [
+    {
+      "author": {"login": "reviewer1"},
+      "state": "COMMENTED",
+      "body": "Have you considered using enums?",
+      "submittedAt": "2026-07-14T10:00:00Z"
+    }
+  ]
+}
