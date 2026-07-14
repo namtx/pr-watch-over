@@ -37,4 +37,3 @@ teardown() {
 
   [[ "$output" == "$MOCK_GH_DIR/gh" ]]
 }
-# BROKEN
