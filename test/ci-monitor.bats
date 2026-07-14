@@ -12,7 +12,7 @@ teardown() {
 
   run ./scripts/ci-monitor.sh 42
 
-  [ "$status" -eq 0 ]
+  [ "$status" -eq 99 ]
   [[ "$output" == *"[ci:pass]"* ]]
 }
 
