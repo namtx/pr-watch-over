@@ -1,0 +1,4 @@
+[
+  {"name":"lint","state":"COMPLETED","bucket":"pass","link":"https://github.com/owner/repo/actions/runs/1"},
+  {"name":"test","state":"COMPLETED","bucket":"fail","link":"https://github.com/owner/repo/actions/runs/2"}
+]
